@@ -23,5 +23,5 @@ Follow these steps to get the application running on your local machine:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-repository/nextjs-anime-app.git
+   git clone https://github.com/Sakil9051/Anime_veult.git
    cd nextjs-anime-app
